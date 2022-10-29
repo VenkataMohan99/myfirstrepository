@@ -1,0 +1,5 @@
+table,td,th{border: 1px solid black;border-collapse: collapse;width: 400px;}
+table{box-shadow: 5px 5px 5px darkblue;border-radius: 10px;}
+h1{background-color: blue;text-align: center;color: white;border-radius: 10px;}
+img{width: 400px;height: 400px;box-shadow: 5px 5px 5px darkblue;border-radius: 10px;}
+#mainDiv{display: flex;flex-direction:row;flex-wrap: wrap;justify-content: space-between;background-color: yellow;}
